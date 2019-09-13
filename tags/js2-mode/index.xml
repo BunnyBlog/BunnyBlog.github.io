@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>编程 on Rookie</title>
-    <link>https://BunnyBlog.github.io/categories/%E7%BC%96%E7%A8%8B/</link>
-    <description>Recent content in 编程 on Rookie</description>
+    <title>js2-mode on Rookie</title>
+    <link>https://BunnyBlog.github.io/tags/js2-mode/</link>
+    <description>Recent content in js2-mode on Rookie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="https://BunnyBlog.github.io/categories/%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://BunnyBlog.github.io/tags/js2-mode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://BunnyBlog.github.io/post/Emacs-%E6%8F%92%E4%BB%B6/</guid>
       <description>介绍一下自己在用的几款 Eamcs 插件： js2-mode 最近在学 JavaScript，看的书是下面这本： https://img1.doubanio.com/view/ark_article_cover/retina/public/35648149.jpg?v=0 用的插件 js2-mode，官方推荐 Emacs 27.0，正好我用的 snap</description>
-    </item>
-    
-    <item>
-      <title>SQL学习</title>
-      <link>https://BunnyBlog.github.io/post/SQL%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://BunnyBlog.github.io/post/SQL%E5%AD%A6%E4%B9%A0/</guid>
-      <description>最近学习数据库，其实在大一下（2016年3月）计算机课程里学过，教材是《数据处理与管理》，人民邮电出版社，2015版， 在豆瓣读书买了人邮电子</description>
     </item>
     
   </channel>
