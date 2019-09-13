@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://BunnyBlog.github.io/sitemap.xml

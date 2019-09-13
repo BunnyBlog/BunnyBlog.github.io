@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rookie</title>
+    <link>https://BunnyBlog.github.io/</link>
+    <description>Recent content on Rookie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://BunnyBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://BunnyBlog.github.io/about/</link>
+      <pubDate>Fri, 13 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/about/</guid>
+      <description>A Renaissance person, also a Rookie! 本是华师不归客 贪财好色之人，竖子不足与谋 靡靡之音狂热者 个人作品：https://tom007cheung.github.io/O</description>
+    </item>
+    
+    <item>
+      <title>Writing Hugo blog in Org (File Export)</title>
+      <link>https://BunnyBlog.github.io/post/hugo/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/hugo/</guid>
+      <description>阅读次数显示问题 去掉文章作者/上次更新 字体问题 访客数 TODO org 文件目录 toc:nil 为啥还会显示 DONE about TODO 置顶博客 DONE 引用 这是引用 i18n author:nil, delete author and add title, if error. even theme: #+hugo_section: post hugo_tags: Microsoft Access 2010</description>
+    </item>
+    
+    <item>
+      <title>Origami 书籍及公开课介绍</title>
+      <link>https://BunnyBlog.github.io/post/Origami/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/Origami/</guid>
+      <description>Robert.J.Lang 是当之为愧的折纸大师，可以先看看这个 TED 视频： Robert 有一本书可谓折纸“圣经”——Origami Design Secrets: Mathematical Methods for an Ancient Art, 2nd Edition，在这本书的致谢部</description>
+    </item>
+    
+    <item>
+      <title>人文社科类学位论文写作</title>
+      <link>https://BunnyBlog.github.io/post/Org-XeLaTeX/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/Org-XeLaTeX/</guid>
+      <description>MathJax.Hub.Config({ tex2jax: {inlineMath: [[&#39;$&#39;,&#39;$&#39;], [&#39;\\(&#39;,&#39;\\)&#39;]]} }); 写作缘由 $\LaTeX$的论文排版无可替代，而学校不会专门教排版设计。 针对人文社科类学位论文写作，从基本的文字编辑，数据分析，进</description>
+    </item>
+    
+    <item>
+      <title>Org-Web</title>
+      <link>https://BunnyBlog.github.io/post/Org-Web/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/Org-Web/</guid>
+      <description> Hello World! TODO  CSS TODO  #+options: html-scripts:nil, html-style:nil, date:nil, creator:t
+TODO  source code 1 2  (org-html--translate &amp;#34;Created&amp;#34; info) (org-html--translate &amp;#34;Updated&amp;#34; info)   DONE  disable &amp;ldquo;Validate&amp;rdquo; In your .emacs file, write it down:
+1  (setq org-html-validation-link nil)   This is my search.
+TODO  MathJaX </description>
+    </item>
+    
+    <item>
+      <title>blender MacOS 平台编译</title>
+      <link>https://BunnyBlog.github.io/post/blender-MacOs-%E5%B9%B3%E5%8F%B0%E7%BC%96%E8%AF%91/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/blender-MacOs-%E5%B9%B3%E5%8F%B0%E7%BC%96%E8%AF%91/</guid>
+      <description>系统版本： macOS 10.14.4 (18E226) 内核版本： Darwin 18.5.0 因为3.30早上刷微博看到网友转发的德国脑洞广告，毅然决定参加Blender的GSoC活动。 报错记录</description>
+    </item>
+    
+    <item>
+      <title>SQL学习</title>
+      <link>https://BunnyBlog.github.io/post/SQL%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/SQL%E5%AD%A6%E4%B9%A0/</guid>
+      <description>最近学习数据库，其实在大一下（2016年3月）计算机课程里学过，教材是《数据处理与管理》，人民邮电出版社，2015版， 在豆瓣读书买了人邮电子</description>
+    </item>
+    
+    <item>
+      <title>1月课程推荐</title>
+      <link>https://BunnyBlog.github.io/post/1%E6%9C%88%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/1%E6%9C%88%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90/</guid>
+      <description>CS224n 自然语言处理 看完吴恩达的coursera机器学习里的*神经网络*很有帮助 MIT 深度学习课程</description>
+    </item>
+    
+    <item>
+      <title>回顾 2018</title>
+      <link>https://BunnyBlog.github.io/post/summary/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/summary/</guid>
+      <description>抑郁了一年，2月份复习跨考本校 CS，没成想记笔记爱上了LaTeX，一发不可收拾！最终放弃了考研，心里想得太多！ 列一下今年的书单： 上半年 Discrete Mathematics and</description>
+    </item>
+    
+  </channel>
+</rss>

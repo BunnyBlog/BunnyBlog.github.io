@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>org-mode on Rookie</title>
+    <link>https://BunnyBlog.github.io/tags/org-mode/</link>
+    <description>Recent content in org-mode on Rookie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://BunnyBlog.github.io/tags/org-mode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Writing Hugo blog in Org (File Export)</title>
+      <link>https://BunnyBlog.github.io/post/hugo/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/hugo/</guid>
+      <description>阅读次数显示问题 去掉文章作者/上次更新 字体问题 访客数 TODO org 文件目录 toc:nil 为啥还会显示 DONE about TODO 置顶博客 DONE 引用 这是引用 i18n author:nil, delete author and add title, if error. even theme: #+hugo_section: post hugo_tags: Microsoft Access 2010</description>
+    </item>
+    
+    <item>
+      <title>人文社科类学位论文写作</title>
+      <link>https://BunnyBlog.github.io/post/Org-XeLaTeX/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/Org-XeLaTeX/</guid>
+      <description>MathJax.Hub.Config({ tex2jax: {inlineMath: [[&#39;$&#39;,&#39;$&#39;], [&#39;\\(&#39;,&#39;\\)&#39;]]} }); 写作缘由 $\LaTeX$的论文排版无可替代，而学校不会专门教排版设计。 针对人文社科类学位论文写作，从基本的文字编辑，数据分析，进</description>
+    </item>
+    
+    <item>
+      <title>Org-Web</title>
+      <link>https://BunnyBlog.github.io/post/Org-Web/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/Org-Web/</guid>
+      <description> Hello World! TODO  CSS TODO  #+options: html-scripts:nil, html-style:nil, date:nil, creator:t
+TODO  source code 1 2  (org-html--translate &amp;#34;Created&amp;#34; info) (org-html--translate &amp;#34;Updated&amp;#34; info)   DONE  disable &amp;ldquo;Validate&amp;rdquo; In your .emacs file, write it down:
+1  (setq org-html-validation-link nil)   This is my search.
+TODO  MathJaX </description>
+    </item>
+    
+  </channel>
+</rss>

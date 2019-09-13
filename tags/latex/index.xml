@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>latex on Rookie</title>
+    <link>https://BunnyBlog.github.io/tags/latex/</link>
+    <description>Recent content in latex on Rookie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://BunnyBlog.github.io/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>人文社科类学位论文写作</title>
+      <link>https://BunnyBlog.github.io/post/Org-XeLaTeX/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/Org-XeLaTeX/</guid>
+      <description>MathJax.Hub.Config({ tex2jax: {inlineMath: [[&#39;$&#39;,&#39;$&#39;], [&#39;\\(&#39;,&#39;\\)&#39;]]} }); 写作缘由 $\LaTeX$的论文排版无可替代，而学校不会专门教排版设计。 针对人文社科类学位论文写作，从基本的文字编辑，数据分析，进</description>
+    </item>
+    
+  </channel>
+</rss>

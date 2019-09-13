@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自然语言处理 on Rookie</title>
+    <link>https://BunnyBlog.github.io/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/</link>
+    <description>Recent content in 自然语言处理 on Rookie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://BunnyBlog.github.io/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1月课程推荐</title>
+      <link>https://BunnyBlog.github.io/post/1%E6%9C%88%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/1%E6%9C%88%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90/</guid>
+      <description>CS224n 自然语言处理 看完吴恩达的coursera机器学习里的*神经网络*很有帮助 MIT 深度学习课程</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>origami on Rookie</title>
+    <link>https://BunnyBlog.github.io/tags/origami/</link>
+    <description>Recent content in origami on Rookie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 13 Jul 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://BunnyBlog.github.io/tags/origami/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Origami 书籍及公开课介绍</title>
+      <link>https://BunnyBlog.github.io/post/Origami/</link>
+      <pubDate>Sat, 13 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/Origami/</guid>
+      <description>Robert.J.Lang 是当之为愧的折纸大师，可以先看看这个 TED 视频： Robert 有一本书可谓折纸“圣经”——Origami Design Secrets: Mathematical Methods for an Ancient Art, 2nd Edition，在这本书的致谢部</description>
+    </item>
+    
+  </channel>
+</rss>
