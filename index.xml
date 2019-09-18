@@ -35,7 +35,7 @@
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0800</pubDate>
       
       <guid>https://BunnyBlog.github.io/post/hugo/</guid>
-      <description>阅读次数显示问题 去掉文章作者/上次更新 字体问题 访客数 TODO org 文件目录 toc:nil 为啥还会显示 DONE about TODO 置顶博客 DONE 引用 这是引用 i18n author:nil, delete author and add title, if error. even theme: #+hugo_section: post hugo_tags: Microsoft Access 2010</description>
+      <description>TODO 阅读次数显示问题 去掉文章作者/上次更新 字体问题 访客数 org 文件目录 toc:nil 为啥还会显示 置顶博客 i18n images author:nil, delete author and add title, if error. hugo_tags: Microsoft Access 2010 阅读更多1, 2 DONE even theme: #+hugo_section: post about</description>
     </item>
     
     <item>
