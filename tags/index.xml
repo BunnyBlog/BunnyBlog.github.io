@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Rookie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://BunnyBlog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>linux</title>
+      <link>https://BunnyBlog.github.io/tags/linux/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenGL</title>
+      <link>https://BunnyBlog.github.io/tags/OpenGL/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/tags/OpenGL/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>company-mode</title>
