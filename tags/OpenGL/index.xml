@@ -17,7 +17,7 @@
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0800</pubDate>
       
       <guid>https://BunnyBlog.github.io/post/learnOpenGL/</guid>
-      <description>OS: Ubuntu 19.04 how to solve undefined reference errors when learning this: 1 g++ main.cpp -L usr/local/include/GLFW -lglfw path/to/glad.c -ldl</description>
+      <description>how to solve undefined reference errors on linux when learning this: 1 g++ main.cpp -L usr/local/include/GLFW -lglfw path/to/glad.c -ldl</description>
     </item>
     
   </channel>
