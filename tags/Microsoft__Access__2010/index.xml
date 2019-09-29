@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft__Access__2010 on Rookie</title>
+    <link>https://BunnyBlog.github.io/tags/Microsoft__Access__2010/</link>
+    <description>Recent content in Microsoft__Access__2010 on Rookie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://BunnyBlog.github.io/tags/Microsoft__Access__2010/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SQL学习</title>
+      <link>https://BunnyBlog.github.io/post/SQL%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://BunnyBlog.github.io/post/SQL%E5%AD%A6%E4%B9%A0/</guid>
+      <description>&lt;p&gt;最近学习数据库，其实在大一下（2016年3月）计算机课程里学过，教材是《数据处理与管理》，人民邮电出版社，2015版&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
