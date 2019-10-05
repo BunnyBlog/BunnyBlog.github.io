@@ -44,10 +44,9 @@
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>https://BunnyBlog.github.io/post/Org-Web/</guid>
-      <description> .TODO_ { color: red; } .DONE_ { color: green; }  TODO  CSS TODO  #+options: html-scripts:nil, html-style:nil, date:nil, creator:t
-TODO  source code 1 2  (org-html--translate &amp;#34;Created&amp;#34; info) (org-html--translate &amp;#34;Updated&amp;#34; info)   DONE  disable &amp;ldquo;Validate&amp;rdquo; In your .emacs file, write it down:
-1  (setq org-html-validation-link nil)   This is my search.
-TODO  MathJaX </description>
+      <description>.TODO_ { color: red; } .DONE_ { color: green; }  TODO  CSS TODO  #+options: html-scripts:nil, html-style:nil, date:nil, creator:t
+TODO  source code 1 2  (org-html--translate &amp;#34;Created&amp;#34; info) (org-html--translate &amp;#34;Updated&amp;#34; info)   TODO  MathJaX DONE  disable &amp;ldquo;Validate&amp;rdquo; In your .emacs file, write it down:
+1  (setq org-html-validation-link nil)   This is my search.</description>
     </item>
     
   </channel>
